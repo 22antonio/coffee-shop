@@ -1,0 +1,153 @@
+title{
+    font-family: Roboto, sans-serif;
+}
+body {
+    margin-top: 100px;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Roboto, sans-serif;
+}
+
+section img{
+    position: relative;
+    width: 100%;
+}
+
+.navbar-default{
+    background: #f2f2f2;
+    border:0;
+    font-family: Roboto, sans-serif;
+}
+
+.navbar-brand{
+    font-size: 20px;
+    color: #000000 !important;
+    font-weight:bold;
+    font-family: Roboto, sans-serif;
+}
+
+p{
+    font-family: Montserrat, sans-serif;
+}
+
+#showcase h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+
+}
+
+#showcase img{
+    width: 100%;
+    opacity: .4;
+    margin-left:20px;
+}
+
+#showcase .showcase-right{
+    margin-top: 10%;
+    font-weight: bold;
+}
+
+#quote{
+    margin-top: 17%;
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+}
+
+#quote p{
+    font-size:  27px;
+    font-family: Montserrat, sans-serif;
+    color: #000000;
+}
+
+#quote p.individual{
+    font-size: 20px;
+    color: #666;
+}
+
+#info1 .info-right{
+    margin-top: 30%;
+    margin-bottom: 30%;
+}
+
+#info1 .info-left{
+    margin-top: 30%;
+    margin-bottom:30%;
+}
+
+#info1 .info-left img{
+    width: 90%;
+    opacity: .8;
+    margin-left:20px;
+}
+
+#info2 .info-right{
+    margin-top: 30%;
+    margin-bottom: 30%;
+}
+
+#info2 .info-left{
+    margin-top: 30%;
+    margin-bottom:20%;
+}
+
+#info2 .info-right img{
+    width: 90%;
+    opacity: .8;
+    margin-left:20px;
+}
+
+form{
+    margin-top: 50px;
+    margin-bottom: 5%;
+}
+
+#social{
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+#social .social-box {
+    height: 50px;
+}
+
+#social .social-box img{
+    height:70%;
+    width: auto;
+}
+
+#social .social-box .glyphicon{
+    font-size: 33px;
+    width: auto;
+    color: black;
+}
+
+#contact .contact-left{
+    margin-top: 25%;
+    margin-bottom: 20%;
+}
+
+#contact .contact-left img {
+    width: 90%;
+    opacity: .8;
+    margin-left:20px;
+}
+
+#projects {
+    margin-bottom: 10%;
+}
+
+#projects .projects-right{
+    margin-left: 10px;
+    float: left;
+}
+
+#projects iframe{
+    margin-bottom: 10px;
+}
+
+#projects .small-text {
+    font-size: 12px;
+}
