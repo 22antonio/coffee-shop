@@ -50,6 +50,5 @@ if(window.outerWidth > 427) {
             document.body.appendChild(css);
         };
     } else {
-        document.getElementById("animated-title").innerHTML = "I am a problem solver, " +
-            "incessantly curious, and I love code.";
+        document.getElementById("animated-title").innerHTML = "Coffe Shop, your place, your coffee, your way. Enjoy!";
     }
