@@ -16,7 +16,7 @@ section img{
 }
 
 .navbar-default{
-    background: #24036d;
+    background: #0e031b;
     border:0;
     font-family: Roboto, sans-serif;
 }
@@ -40,7 +40,6 @@ p{
 
 #showcase img{
     width: 100%;
-    opacity: .4;
     margin-left:20px;
 }
 
