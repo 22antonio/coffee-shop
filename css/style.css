@@ -138,13 +138,8 @@ form{
     margin-bottom: 10%;
 }
 
-#projects .projects-right{
-    margin-left: 10px;
-    float: left;
-}
-
-#projects iframe{
-    margin-bottom: 10px;
+#projects .projects-right a {
+    padding-right: 10px;
 }
 
 #projects .small-text {
